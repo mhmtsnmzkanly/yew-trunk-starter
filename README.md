@@ -1,10 +1,12 @@
 ## Yew Starter
 Another **Yew** & **Trunk** template.
-#rust #wasm #webassembly #yew #yew-router
-#trunk #web-sys #wasm-logger #wasm-bindgen
-It is built on top of the [template](https://github.com/yewstack/yew-trunk-minimal-template), you can use the template by following the same instructions.
+
+It is built on top of the [template](https://github.com/yewstack/yew-trunk-minimal-template),
+You can use the template by following the same instructions.
+
 A Yew project is intended to provide convenience when getting started.
 Do not forget to specify your suggestions and requests.
+
 Thanks.
 
 ### Dependencies:
